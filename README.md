@@ -1,4 +1,4 @@
 # LahusenWebSite
 Website HTML5 CSS3 Javascript Jquery
 
-pagins web hecha para un cliente, utilizando slides para generar un impacto visual alto en el usuario.
+One page website para organizador de catering y eventos, utilizando tranciciones y slides para generar un impacto visual alto en el cliente.
